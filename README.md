@@ -18,4 +18,3 @@ class Person implements Profile {
   }
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy2n&exclude_repo=github-readme-stats,anuraghazra.github.io)
