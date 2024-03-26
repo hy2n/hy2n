@@ -18,3 +18,4 @@ class Person implements Profile {
   }
 }
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy2n)](https://github.com/anuraghazra/github-readme-stats)
